@@ -1,0 +1,9 @@
+body{
+  background-color: gray;
+}
+h1{
+  font-size: 90px;
+  background-image: linear-gradient(red ,yellow);
+  margin: 50px 10px;
+  outline-style: dotted;
+}
